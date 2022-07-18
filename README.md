@@ -1,5 +1,5 @@
 # RXz-17
 
-Intro:
+Introduction:
 
 
